@@ -1,0 +1,20 @@
+#виртуальное окружение 
+.venv/
+venv/
+ENV/
+
+#кэш Python
+**/__pycache__/
+*.pyc
+
+#файлы датасета и тяжелые файлы векторов
+data/
+*.npy
+*.txt
+*.zip
+*.jpg
+*.png
+*.jpeg
+
+
+.vscode/
