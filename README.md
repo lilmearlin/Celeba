@@ -19,3 +19,12 @@ Due to GitHub's file size limits (100MB), the pre-computed FaceNet embeddings fo
 ```bash
    python app.py
 ```
+
+**If you don't want to download all these files you can watch our demonstration:**
+(The video has been compressed using Clideo.)
+
+
+https://github.com/user-attachments/assets/7e204acc-1963-4c6a-ab5e-dc2e02cad8fe
+
+
+
